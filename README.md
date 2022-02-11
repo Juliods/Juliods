@@ -2,7 +2,7 @@ Este é o meu perfil do github, seja bem vindo.
 Uma vez que eu faço um programa ou código eu o deixo disponível aqui
 
 Atualmente trabalho na disponibilização dos códigos antigos que desenvolvi
-Maior parte deles são simples, porem efetivos nas suas propostas
+Maior parte deles são simples, mas efetivos
 O meu maior desafio atualmente é participar de um programa de estágio 
 
 Futuramente pretendo melhorar a minha presença na internet 
