@@ -2,7 +2,7 @@
 <p>Uma vez que eu faço um programa ou código eu o deixo disponível aqui.</p>
 
 <p>Atualmente trabalho na disponibilização dos códigos antigos que desenvolvi<br>
-<p>A maior parte deles possui uma lógica simples, mas efetiva.</p><br>
+<p>A maior parte deles possui uma lógica simples, mas efetiva.</p>
 <p>Futuramente pretendo expandir o meu conhecimneto e adicionar códigos mais complexos<br>
   O meu maior desafio atualmente é conquistar um programa de estágio.</p>
 
