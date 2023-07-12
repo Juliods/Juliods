@@ -1,2 +1,3 @@
 Sou Júlio.
-Gosto de criar código simples e efetivo.
+Cursando Ciências da Computação
+dedico à este espaço as atividades e projetos.
